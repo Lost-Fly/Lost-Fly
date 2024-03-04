@@ -10,7 +10,7 @@ I'm beginner back-end developer <img src="https://media.giphy.com/media/WUlplcMp
 
 - :telescope: I have professional experience working in a real company, where I was involved in developing business products and small utilities.
 
-- :seedling: 
+- :seedling: I actively pursue the development of various pet projects to broaden my expertise across diverse domains, while also enhancing my soft skills. Additionally, I am fluent in English.
 
 - :zap: I often participate in IT meetups and never miss an opportunity to take part in hackathons.
 
@@ -81,7 +81,15 @@ I'm beginner back-end developer <img src="https://media.giphy.com/media/WUlplcMp
 
 | Achievements                                                    | Date              |
 | ----------------------------------------------------------------| :---------------: |
+| ICPC UrFU                                                       | 10/2022 - 10/2022 |
 | Hackathon UrFU Coderunner - Tinkoff Case                        | 11/2022 - 11/2022 |
+| Hackathon Sber SkyHack                                          | 04/2023 - 04/2023 |
+| Tinkoff CTF                                                     | 08/2022 - 08/2022 |
+| WorldSkills - Second Place in System Administration case        | 01/2020 - 02/2020 |
+| Tinkoff Math Love Day (Math Olimpiad)                           | 02/2024 - 02/2024 |
+| All-Russian Olympiad "ЯПрофессионал" supported by Yandex and RSV| 10/2023 - 05/2024 |
+| Cisco CCNA Certificate                                          | 01/2019 - 07/2020 |
+| Cisco Cybersecurity Certificate                                 | 01/2019 - 07/2020 |
 
 
 
