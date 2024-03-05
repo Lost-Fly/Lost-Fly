@@ -3,7 +3,7 @@
 
 ### :man_technologist: About me:
 
-I'm beginner back-end developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Currently, I am studying at Ural Federal University (UrFU) in the field of Mathematics and Computer Science.
+I'm back-end developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Currently, I am studying at Ural Federal University (UrFU) in the field of Mathematics and Computer Science.
 <p align="center">
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
 </p>
