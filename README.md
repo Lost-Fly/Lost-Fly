@@ -93,6 +93,9 @@ I'm back-end developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
 | Tinkoff Math Love Day (Math Olimpiad)                           | 02/2024 - 02/2024 |
 | All-Russian Olympiad "ЯПрофессионал" supported by Yandex and RSV| 10/2023 - 05/2024 |
 
+### Improving programming skills by training on the LeetCode
+![LeetCode Stats](https://leetcard.jacoblin.cool/lost-fly?theme=wtf&font=Orbitron&ext=heatmap)
+
 
 
 
