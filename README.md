@@ -14,7 +14,8 @@ I'm back-end developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
 
 - :zap: I often participate in IT meetups and never miss an opportunity to take part in hackathons.
 
-- :mailbox: How to chat with me: ![Static Badge](https://img.shields.io/badge/Telegram-%40lostfly-red?style=flat&logo=Telegram&logoColor=white&color=red&link=https%3A%2F%2Ft.me%2Flostfly_dev)
+- :mailbox: How to chat with me: [![Static Badge](https://img.shields.io/badge/Telegram-%40lostfly_dev-red?style=flat&logo=Telegram&logoColor=white&color=red&link=https%3A%2F%2Ft.me%2Flostfly_dev)](https://t.me/lostfly_dev)
+- :mailbox: How to chat with me: lostfly.dev@yandex.ru
 
 
 ---
@@ -25,11 +26,7 @@ I'm back-end developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
     <a href="https://t.me/lostfly_dev" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
     </a>
-<!--     <a href="https://vk.com/lostfly" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
-    </a> -->
-  </div>
-
+   
 ---
 
 ### 💻 Main Technologies:
