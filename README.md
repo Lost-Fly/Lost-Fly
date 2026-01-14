@@ -3,12 +3,12 @@
 
 ### :man_technologist: About me:
 
-I'm back-end developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Currently, I am studying at Ural Federal University (UrFU) in the field of Mathematics and Computer Science.
+I'm back-end developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Also, I am teaching students at Ural Federal University (UrFU) in the field of Mathematics and Computer Science.
 <p align="center">
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
 </p>
 
-- :telescope: I have professional experience working in a real company, where I was involved in developing business products and small utilities.
+- :telescope: I have professional experience working in big IT companies, where I was involved in developing business products and variety of utilities.
 
 - :seedling: I actively pursue the development of various pet projects to broaden my expertise across diverse domains, while also enhancing my soft skills. Additionally, I am fluent in English.
 
